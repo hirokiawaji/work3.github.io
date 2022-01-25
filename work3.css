@@ -60,6 +60,10 @@
   text-decoration: none;
   color:black;
 }
+.tools{
+  text-decoration: none;
+  color:black;
+}
 .works{
   text-decoration: none;
   color:black;
@@ -77,6 +81,9 @@
   color:gray;
 }
 .notes:hover{
+  color:gray;
+}
+.tools:hover{
   color:gray;
 }
 .work{
